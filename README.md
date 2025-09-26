@@ -17,7 +17,7 @@
 ### ⏳ Time Series Forecasting  
 - 🧠 Designed and implemented LSTM, ARIMA, and XGBoost models on large climate datasets  
 - ⚙️ Performed preprocessing, feature engineering, and error analysis (RMSE, MAE)  
-👉 [View Project]([[your-repo-link]
+👉 [View Project](https://github.com/hmao401/Weather-Forecasting-with-LSTM-GRU-and-ARIMA)
 
 ---
 
