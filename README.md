@@ -23,7 +23,7 @@
 
 ## 🌱 Currently Exploring  
 
-- 📊 Advanced data visualization (Power BI & Tableau)  
+- 📊 Advanced data visualisation (Power BI & Tableau)  
 - ⚡ Workflow automation with Python & SQL  
 - 🔮 New approaches in predictive modeling  
 
