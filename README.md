@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats  
 
-![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmao401&show_icons=true&theme=tokyonight)  
+![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmao401&show_icons=true&theme=tokyonight)
 
 ---
 
