@@ -36,13 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmao401&show_icons=true&theme=tokyonight&hide_border=true" alt="Hussein's GitHub stats" />
-</p>
----
-
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-mao-109723196/)
