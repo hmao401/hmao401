@@ -38,8 +38,9 @@
 
 ## 📊 GitHub Stats  
 
-![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmao401&show_icons=true&theme=tokyonight)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmao401&show_icons=true&theme=tokyonight&hide_border=true" alt="Hussein's GitHub stats" />
+</p>
 ---
 
 ## 📫 Connect with Me  
